@@ -81,11 +81,11 @@ Longitude: -122.084
 
 ## Images
 
-<img width="653" height="476" alt="Screenshot 2026-05-28 at 20 03 54" src="https://github.com/user-attachments/assets/a9eae957-187f-4ce4-bf77-e650c68ea257" />
+<img width="653" height="476" alt="Biometric Authentication" src="https://github.com/user-attachments/assets/a9eae957-187f-4ce4-bf77-e650c68ea257" />
 
-<img width="686" height="492" alt="Screenshot 2026-05-28 at 20 04 29" src="https://github.com/user-attachments/assets/44a0656b-1082-4fd3-b49c-f7442b3ab88e" />
+<img width="686" height="492" alt="Location" src="https://github.com/user-attachments/assets/44a0656b-1082-4fd3-b49c-f7442b3ab88e" />
 
-<img width="471" height="501" alt="Screenshot 2026-05-28 at 20 04 49" src="https://github.com/user-attachments/assets/a4ab030f-d9a8-47c8-8559-6845981e7ac8" />
+<img width="471" height="501" alt="Success" src="https://github.com/user-attachments/assets/a4ab030f-d9a8-47c8-8559-6845981e7ac8" />
 
-<img width="425" height="466" alt="Screenshot 2026-05-28 at 20 05 07" src="https://github.com/user-attachments/assets/b8bb3020-f00b-4b07-932d-4df066d96ccd" />
+<img width="425" height="466" alt="Error" src="https://github.com/user-attachments/assets/b8bb3020-f00b-4b07-932d-4df066d96ccd" />
 
