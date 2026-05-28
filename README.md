@@ -17,7 +17,6 @@ Mobile attendance application developed in Kotlin for **CS 4405 - Mobile Applica
 - Attendance record management
 - Prevent multiple check-ins/check-outs
 - View attendance history
-- Internet connection and network data fetching example using `HttpURLConnection`
 
 ## Technologies Used
 
@@ -78,22 +77,6 @@ The application validates user location before check-in/check-out.
 ```text
 Latitude: 37.4219983
 Longitude: -122.084
-```
-
-## Network Connection Example
-
-The project also includes an example of:
-
-- Checking internet connectivity
-- Fetching data from an API using `HttpURLConnection`
-- Handling:
-  - No internet connection
-  - Invalid URL / no data fetched
-
-API used:
-
-```text
-https://jsonplaceholder.typicode.com/todos
 ```
 
 ## Images
